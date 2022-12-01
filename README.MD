@@ -1,4 +1,4 @@
-# Traffic-Monitoring-Solution-Accelerator
+# Traffic Monitoring Accelerator
 
 ![Traffic-Monitoring-Solution-Accelerator](/Media/TSMA.jpg)
 
@@ -42,7 +42,7 @@ The directions provided for this repository assume fundamental working knowledge
 * Storage Account
   * Storage for process video
   * Storage for unprocess video
-* kubernetes
+* Kubernetes
 * Python
 * AI ML Tools like CVAT
 
