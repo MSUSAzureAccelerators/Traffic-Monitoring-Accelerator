@@ -2,7 +2,7 @@
 
 ![Traffic-Monitoring-Solution-Accelerator](/Media/TSMA.jpg)
 
-This solution will enable state DOT/City to deliver geospatial visualizations of road network performance and demand, travel time delay, non-recurring congestion events. Record, analysis, and dispatch crew for pavement repair, and other hazardous conditions. 
+This accelerator will enable state DOT/City to deliver geospatial visualizations of road network performance and demand, travel time delay, non-recurring congestion events. Record, analysis, and dispatch crew for pavement repair, and other hazardous conditions. 
 
 
     Ability to upload a video.  
